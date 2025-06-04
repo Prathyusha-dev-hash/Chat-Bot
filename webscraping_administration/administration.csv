@@ -1,3 +1,151 @@
 admin_id,role_name,person_name,designation,email,phone,office_location,responsibilites,image_url
 Murmu,Distinguished Visitor,Smt. Droupadi Murmu,The Hon'ble President of India,AttributeError,AttributeError,"Rashtrapati Bhavan, New Delhi, India","We are honored to announce that the Hon'ble President of India, Smt. Droupadi Murmu is the Visitor of our Institute.",https://iiitdwd.ac.in/images/droupadi_murmu.jpeg
+Vembu,Chairperson,Dr. Sridhar Vembu,"Chairperson, IIIT Dharwad",chairperson@iiitdwd.ac.in,AttributeError,AttributeError,"Dr. Sridhar Vembu is the co-founder and Chief Scientist of Zoho Corporation, a globally respected technology leader and a pioneer in rural development through innovation. Raised in a humble village in Tamil Nadu, India, Dr. Vembu's academic journey led him to earn a degree in Electrical Engineering from IIT Madras and a Ph.D. from Princeton University.
+In 1996, he co-founded AdventNet, which evolved into Zoho Corporation in 2009. Under his visionary leadership, Zoho grew into a global provider of cloud-based business software, empowering millions of users and businesses across the world. The company operates with a strong philosophy of self-reliance, long-term thinking, and customer-focused innovation. A defining aspect of Dr. Vembu's mission has been his unwavering commitment to social impact. He has championed the establishment of offices in rural areas, such as Tenkasi in Tamil Nadu, to decentralize opportunities and bring technological innovation closer to underserved regions. His initiative, Zoho Schools of Learning, offers free vocational education to high school graduates, especially from rural communities, providing them with hands-on training and job opportunities without the burden of a formal college degree.
+Dr. Vembu's approach to business blends technological excellence with deep social responsibility. His work has earned him numerous accolades, including the Padma Shri in 2021 and CNN-News18 Indian of the Year in 2022. In 2025, he transitioned from the role of CEO to Chief Scientist, dedicating his focus to research, product innovation, and the long-term vision of Zoho. Respected for his humility, foresight, and belief in inclusive growth, Dr. Sridhar Vembu continues to inspire a generation of entrepreneurs to think beyond conventional boundaries and create impact-driven enterprises.
+ ",https://iiitdwd.ac.in/images/Sridhar%20Vembu.webp
+Vembu,Chairperson,Dr. Sridhar Vembu,"Chairperson, IIIT Dharwad",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/Sridhar Vembu.webp
 
+Gupta,Members,Smt. Saumya Gupta,"Joint Secretary (TE), Ministry of Education, Government of India",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/saumya_gupta.jpg
+
+I.A.S,Members,"Dr. Ekroop Caur, I.A.S",Secretary to Government Department of Electronics Information Technology Biotechnology and Science & Technology. Government of Karnataka,AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/ekroop_caur.jpg
+
+IAS,Members,"Shri Pavan Kumar Malapati, IAS","Department of Science & Technology & Managing Director, KSTePS Government of Karnataka",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/pavan_kumar_malapati.jpg
+
+Desai,Members,Prof. Uday B. Desai,"Former Director, IIT Hyderabad",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/uday_b_desai.jpg
+
+Sadagopan,Members,Prof. S. Sadagopan,"Former Director, IIIT Bengaluru",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/s_sadagopan.jpg
+
+IAS,Members,"Shri M. N. Vidyashankar, IAS","President, IESA & Former Additional Chief Secretary to Government of Karnataka",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/m_n_vidyashankar.jpg
+
+IAS,Members,"Shri S. V. Ranganath, IAS","Vice Chairman, Karnataka State Higher Education Council, Former Chief Secretary, Government of Karnataka",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/s_v_ranganath.jpg
+
+Balaram,Members,Prof. P. Balaram,"Former Director, IISc Bengaluru",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/p_balaram.jpg
+
+Chandra,Members,Prof. Pankaj Chandra,"Vice Chancellor, Ahmedabad University",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/pankaj_chandra.jpg
+
+Khincha,Members,Prof. H. P. Khincha,"Former Vice Chancellor, VTU and Professor, IISc, Bengaluru",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/h_p_khincha.jpg
+
+Desai,Members,Prof. Venkappayya R. Desai,"Director, IIT Dharwad",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/venkappayya_r_desai.jpeg
+
+Prasanna,Members,Prof. S. R. Mahadeva Prasanna,"Director, IIIT Dharwad",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/s_r_mahadeva_prasanna.jpg
+
+T.,Members,Dr. Deepak K. T.,"Associate Dean, R&D",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/Dr.DeepakKT.jpeg
+
+Subrahmanyam,Members,Prof. Ch. Subrahmanyam,IIT Hyderabad,AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/ch_subrahmanyam.jpeg
+
+Vitlapur,Non Member Secretary,Mr. Ravi B. Vitlapur,"Officiating Registrar, IIIT Dharwad, Non Member Secretary, IIIT Dharwad",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/ravi_b_vitlapur.jpg
+
+Prasanna,Director,Prof. S. R. Mahadeva Prasanna,"Director, IIIT Dharwad",director@iiitdwd.ac.in,AttributeError,"IIIT Dharwad, Karnataka, India","S. R. Mahadeva Prasanna is a recipient of the National Award for Teachers 2023 from the honorable President of India Smt. Droupadi Murmu. He is currently working as Director, IIIT Dharwad on leave from IIT Dharwad. He is Professor in the Dept. of Electrical, Electronics and Communication (EECE) at IIT Dharwad. He was Dean(Faculty Welfare) at IIT Dharwad before taking charge of Director at IIIT Dharwad. He was earlier Professor in the Dept. of Electronics and Electrical Engineering and Dean (Research & Development), IIT Guwahati. He earned his PhD from IIT Madras in 2004, MTech from NITK Surathkal (then KREC Surathkal) in 1997 and BE from SSIT Tumakuru in 1994. He teaches signal processing, speech processing, artificial intelligence, machine learning and deep learning related courses. His research interests are in speech processing. He has supervised 28 PhD research scholars in the areas of speech and handwriting processing. Currently 7 scholars are working for their PhD / MS degrees. He has published over 115 journal articles and 200 conference articles in reputed national and international journals and conferences. He has executed large volume externally funded projects from public and private funding agencies. He is also a consultant for many industries working in the niche technology areas, especially, speech technology. On the academic administration front, at IIT Guwahati he was faculty-in-charge, counseling cell, chairman, students' welfare board, organizing vice-chairman, GATE 2010, Chairman, GATE 2011, Associate Dean (Research and Development) and Dean (Research & Development). At IIT Dharwad, he was Dean (Faculty Welfare) and Dean (Research & Development) from July 2017 till March 2023. From March 2023 till April 2024, he continued as Dean (Faculty Welfare). He also served IIT Dharwad on different committees towards setting up the institute of national importance in Dharwad, Karnataka. Welcome to Dharwad city also known as �Vidyakashi� for its rich academic ambience. Dharwad is an education city with nine Universities in and around. IIIT Dharwad is proud to be in the midst of these great universities. It will derive benefits by collaborating with these universities from their rich experience and knowledge. It will in turn contribute by offering academic and research programs in information technology, computer science,electronics and communication, data science and artificial intelligence areas. There is a saying about Dharwad, �if you throw a stone in Dharwad, it will most likely fall on the house of a teacher or literary person or musician�. To add to this, �if you miss an address, most probably you will end up at the entrance gate of one of the universities�. Such a great academic place is Dharwad city. For more than a century, it has been the dream destination for education, literature and music pursuits. This ecosystem is the fertile ground on which IIIT Dharwad has started its journey in 2015. This is a noble initiative of Government of India (GoI), Government of Karnataka (GoK) and industrial partner KEONICS. IIIT Dharwad has made excellent progress and completed its first phase of journey. It is ready to embark on its next phase. Since we have our own permanent campus with necessary infrastructure, the next phase of five years is expected to witness an exponential growth. IIIT Dharwad will go all out to establish industry-academia, and national and international academic collaborations. Being an higher education institute of the country established in North Karnataka will be sensitive to the social ecosystem in the neighborhood and would like to fulfill its academic-social responsibility. Information technology, computer science, electronics and communication, data science and artificial intelligence are the niche technology areas for the 21st century and hence IIITs are the most sought after higher education technology institutes. With highly qualified faculty in partnership with industry and academia from India and abroad would like to help the higher education landscape and growth of high tech industries. The benefit of aimed collaboration is not only for IIIT Dharwad, but also for all the academic institutes in the neighborhood, specifically North Karnataka.If you want to experience an exciting journey for undergraduate, post graduate and research degrees in Information technology, computer science, electronics and communication, data science and artificial intelligence, then you should seriously consider joining IIIT Dharwad. Please read more information on the official website and official social media platforms of the institute. If you want to know more about the campus facilities, admission process and opportunities, you are most welcome to contact respective divisions or units of the institute or visit the institute and interact with us. IIIT Dharwad is a well thought out public private partnership (PPP) university model of the country where the institute needs to generate its own revenue to bring stability, sustainability and growth. Therefore apart from academic programs, we are looking for industry-academia collaborations. We are in the process of starting a tech park that will have space for startups, industrial research centers, skilling institutes, training academies for teachers in frontier technology areas and the future of learning in the form of digital and online. For our young generation, the entire world is a family (Vasudhaiva Kutumbakam) and we want IIIT Dharwad students to get trained and move onto premier institutes and organizations across the globe and lead them. To create an ecosystem for the same, we are looking for national and international collaborations. To execute our growth plan, we need to augment our infrastructure and look for help from a big hearted community for the cause of setting up a vibrant education and learning ecosystem. A special appeal to the global community, Indian diaspora, specifically from North Karnataka in India and abroad to come forward and contribute to this great institute in the making in terms of Tanu-Mana-Dhana! If you want to know more about how you can help IIIT Dharwad, please contact me at director@iiitdwd.ac.in ",/_next/static/media/director.7163fe52.jpg
+
+Prasanna,Chairman Senate,Prof. S. R. Mahadeva Prasanna,"Director, Chairman, IIIT Dharwad",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/s_r_mahadeva_prasanna.jpg
+
+Mutyam,Members,Prof. Madhu Mutyam,"Professor, IIT Madras",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/madhu_mutyam.png
+
+Ramamurthy,Members,Prof. Badrinath Ramamurthy,"Professor, IIIT Bangalore",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/badrinath_ramamurthy.jpg
+
+Subrahmanyam,Members,Prof. Ch. Subrahmanyam,"Professor, IIT Hyderabad",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/ch_subrahmanyam.jpeg
+
+Patil,Members,Prof. Dhiraj V. Patil,"Associate Professor, IIT Dharwad",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/dhiraj_v_patil.png
+
+Verma,Members,Prof. Vasudeva Verma,"Professor, IIIT Hyderabad",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/vasudeva_verma.png
+
+Kulkarni,Members,Dr. Dattatraya Kulkarni,McAfee Bengaluru,AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/dattatraya_kulkarni.png
+
+Verma,Members,Shri Sumeet Verma,Intel Bengaluru,AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/sumeet_verma.png
+
+Akki,Members,Prof. C. B. Akki," Prof-In-Charge, P&D",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/Dr.ChannappaAkki.jpeg
+
+Annigeri,Members,Prof. Satish Annigeri,"Prof-In-Charge, Exams and AIMS",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/satish_annigeri.jpg
+
+Gopinath,Members,Prof. K. Gopinath,"Prof-In-Charge, Students' Welfare and Administration",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/Dr._K._Gopinath.jpg
+
+Hegadi,Members,Dr. Rajendra Hegadi,"Prof-In-Charge, Academics",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/Dr.RajendraHegadi.jpeg
+
+T.,Members,Dr. Deepak K. T.,"Associate Dean, R&D",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/Dr.DeepakKT.jpeg
+
+C,Members,Dr. Pavan Kumar C,"Associate Dean, ICT, Automation",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/Dr.PavanKumarC.jpg
+
+N.,Members,Dr. Jagadish D. N.,"Faculty-In-Charge, Students Affairs",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/Dr.JagadishDN.jpeg
+
+Bhat,Members,Dr. Jagadeesha R. Bhat,"Faculty-In-Charge, International Relations",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/Dr.JagadeeshaRB.jpg
+
+Vanahalli,Members,Dr. Manjunath K. Vanahalli,"Faculty-In-Charge, CGC",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/Dr.ManjunathKV.jpg
+
+Babu,Members,Dr. Aswath Babu,Faculty (DASD),AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/ashwath_babu_h.jpeg
+
+R.,Members,Dr. Siddharth R.,HoD (DSAI),AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/Dr.SiddharthR.jpg
+
+Pawar,Members,Dr. Prakash Pawar,HoD (E&C),AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/Dr.PrakashPawar.jpg
+
+Prasad,Members,Dr. Prabhu Prasad,HoD (CSE),AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/Dr.PrabhuPrasadBM.png
+
+Saumya,Members,Dr. Sunil Saumya,Associate Dean Academics,AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/Dr.SunilSaumya.jpeg
+
+Hazra,Members,Dr. Suvadip Hazra,Invitee,AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/Dr.SuvadipHazra.png
+
+Vitlapur,Members,Mr. Ravi B. Vitlapur,Officiating Registrar,AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/ravi_b_vitlapur.jpg
+Khincha,Building & Works Committee,Prof. H P Khincha,Chairman,AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/h_p_khincha.jpg
+Murthy,Building & Works Committee,Prof. B R Srinivasa Murthy,Member,AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/b_r_srinivasa_murthy.jpg
+N.,Building & Works Committee,Prof. Anuradha N.,Member,AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/anuradha_n.jpg
+Prasanna,Building & Works Committee,Prof. S. R. Mahadeva Prasanna,"Director, IIIT-Dharwad",AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/s_r_mahadeva_prasanna.jpg
+Vitlapur,Building & Works Committee,Mr. Ravi B Vitlapur,Member,AttributeError,AttributeError,AttributeError,AttributeError,/placeholder-person.png
+J,Building & Works Committee,Mr. Mahesh Chandra K J,Member Secretary,AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/mahesh_chandra_k_j.jpeg
+Iyer,Building & Works Committee,Prof. Nagesh Iyer,Member,AttributeError,AttributeError,AttributeError,AttributeError,/placeholder-person.png
+De,Building & Works Committee,Mr. Madhu De,Architect/Invitee,AttributeError,AttributeError,AttributeError,AttributeError,/placeholder-person.png
+Wahab,Building & Works Committee,Mr. Waheez Wahab,PMC/Invitee,AttributeError,AttributeError,AttributeError,AttributeError,/placeholder-person.png
+Hegadi,Professor In-Charge,Dr. Rajendra Hegadi,"Professor In-Charge,Academic & Student Welfare",,AttributeError,AttributeError,AttributeError,https://www.iiitdwd.ac.in//images/Dr.RajendraHegadi.jpeg
+T,Associate Dean,Dr. Deepak K T,"Associate Dean,Academic & Student Welfare",,AttributeError,AttributeError,AttributeError,https://www.iiitdwd.ac.in//images/Dr.DeepakKT.jpeg
+N,Associate Dean,Dr. Jagadish D N,"Associate Dean,Academic & Student Welfare",,AttributeError,AttributeError,AttributeError,https://www.iiitdwd.ac.in//images/Dr.JagadishDN.jpeg
+C,Associate Dean,Dr. Pavan Kumar C,"Associate Dean,Academic & Student Welfare",,AttributeError,AttributeError,AttributeError,https://www.iiitdwd.ac.in//images/Dr.PavanKumarC.jpg
+Saumya,Associate Dean,Dr. Sunil Saumya,"Associate Dean,Academic & Student Welfare",,AttributeError,AttributeError,AttributeError,https://www.iiitdwd.ac.in//images/Dr.SunilSaumya.jpeg
+Hegadi,Professor In-Charge,Dr. Rajendra Hegadi,"Professor In-Charge,Academic & Student Welfare",,AttributeError,AttributeError,AttributeError,https://www.iiitdwd.ac.in//images/Dr.RajendraHegadi.jpeg
+T,Associate Dean,Dr. Deepak K T,"Associate Dean,Academic & Student Welfare",,AttributeError,AttributeError,AttributeError,https://www.iiitdwd.ac.in//images/Dr.DeepakKT.jpeg
+N,Associate Dean,Dr. Jagadish D N,"Associate Dean,Academic & Student Welfare",,AttributeError,AttributeError,AttributeError,https://www.iiitdwd.ac.in//images/Dr.JagadishDN.jpeg
+C,Associate Dean,Dr. Pavan Kumar C,"Associate Dean,Academic & Student Welfare",,AttributeError,AttributeError,AttributeError,https://www.iiitdwd.ac.in//images/Dr.PavanKumarC.jpg
+Saumya,Associate Dean,Dr. Sunil Saumya,"Associate Dean,Academic & Student Welfare",,AttributeError,AttributeError,AttributeError,https://www.iiitdwd.ac.in//images/Dr.SunilSaumya.jpeg
+Ponnusamy,Registrar,Dr. Muruganatham Ponnusamy,Registrar,AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/Muruganatham_Ponnusamy.jpeg
+Vitlapur,Assistant Registrar,Mr. Ravi B Vitlapur,Assistant Registrar,AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/ravi_b_vitlapur.jpg
+Ponnusamy,Registrar,Dr. Muruganatham Ponnusamy,Registrar,AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/Muruganatham_Ponnusamy.jpeg
+Vitlapur,Assistant Registrar,Mr. Ravi B Vitlapur,Assistant Registrar,AttributeError,AttributeError,AttributeError,AttributeError,https://iiitdwd.ac.in/images/ravi_b_vitlapur.jpg
+M,Head of the Department [HoD],Dr. Prabhu Prasad B M,"Head of the Department [HoD],CSE",,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://www.iiitdwd.ac.in//images/Dr.PrabhuPrasadBM.png
+Padhy,Head of the Department [HoD],Dr. Sibasankar Padhy,"Head of the Department [HoD],ECE",,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://www.iiitdwd.ac.in//images/Dr.SibasankarPadhy.jpg
+R,Head of the Department [HoD],Dr.Siddharth R,"Head of the Department [HoD],DSAI",,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://www.iiitdwd.ac.in//images/Dr.SiddharthR.jpg
+H,Head of the Department [HoD],Dr. Aswath Babu H,"Head of the Department [HoD],Department of Arts, Science, and Design",,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/Dr.AswathBabuH.jpeg
+B,Faculty-In-Charge,Dr. Jagadeesha R B,"Faculty-In-Charge,International Relations,Exams and AIMS",,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/Dr.JagadeeshaRB.jpg
+Kumar,Faculty-In-Charge,Dr. Malay Kumar,"Faculty-In-Charge,Overall Admissions",,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/Dr.MalayKumar.jpg
+V,Faculty-In-Charge,Dr. Manjunath K V,"Faculty-In-Charge,Career Guidance Cell [CGC]",,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/Dr.ManjunathKV.jpg
+Gopinath,Staff,Dr. K. Gopinath,"Professor-In-Charge, Students welfare and administration",AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/Dr._K._Gopinath.jpg
+Hiremath,Staff,Mr. Ashwin Hiremath,Junior Assistant,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/ashwin_hiremath.jpeg
+Katwe,Staff,Ms. Arya Katwe,P.A to Director,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/arya_katwe.jpg
+J,Staff,Mr. Mahesh Chandra K J,Executive Engineer,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/mahesh_chandra_k_j.jpeg
+Hiremath,Staff,Mr. N R Hiremath,Audit Consultant/Advisor,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/n_r_hiremath.jpeg
+Shirahatti,Staff,Mr. Naveen Shirahatti,Assistant Sports Coach,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/naveen_shirahatti.jpeg
+Patil,Staff,Mrs. Neeta Patil,Junior Technical Assistant,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/neeta_patil.jpeg
+Akki,Staff,Ms. Pooja Akki,Junior Technical Assistant,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/pooja_akki.jpg
+Kalal,Staff,Mr. Prasad Pulakeshi Kalal,Junior Technical Assistant,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/prasad_pulakeshi_kalal.jpg
+H,Staff,Mr. Raghvendra H,Junior Assistant,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/raghvendra_h.jpeg
+Vitlapur,Staff,Mr. Ravi B Vitlapur,Officiating Registrar and Assistant Registrar,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/ravi_b_vitlapur.jpg
+Pyatishettar,Staff,Mrs. Reshma Pyatishettar,Junior Assistant,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/reshma_pyatishettar.jpg
+Kolekar,Staff,Mr. Sagar Kolekar,Senior Library Information Assistant,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/sagar_kolekar.jpeg
+Desai,Staff,Mr. Sameer Desai,Technical Assistant,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/sameer_desai.jpeg
+Patil,Staff,Dr. Sangamesh Patil,Medical Officer,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/sangamesh_patil.jpg
+Kotur,Staff,Ms. Shalini Kotur,Junior Assistant,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/shalini_kotur.jpeg
+Shetty,Staff,Mrs. Suma Shetty,Junior Superintendent - HRM,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/suma_shetty.jpeg
+Kulkarni,Staff,Mr. Sunil Kulkarni,Junior Assistant,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/sunil_kulkarni.jpg
+Math,Staff,Mrs. Swati Math,Junior Superintendent - Accounts,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/swati_math.jpeg
+Doddamani,Staff,Mr. Ujwal Doddamani,Student life coordinator,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/ujwal_doddamani.jpg
+Kuri,Staff,Mr. Yallappa Kuri,Office Asst/Attender,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/yallappa_kuri.JPG
+Vanahalli,Leads,Dr. Manjunath K Vanahalli,Faculty-In-Charge,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/Dr.ManjunathKV.jpg
+Doddamani,Leads,Mr. Ujwal Doddamani,Member Secretary (ujwal@iiitdwd.ac.in) ,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/ujwal_doddamani.jpeg
+M,Ex-officio Members,Dr. Prabhu Prasad B M,Ex-officio Member,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/Dr.PrabhuPrasadBM.png
+Padhy,Ex-officio Members,Dr. Sibasankar Padhy,Ex-officio Member,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/Dr.SibasankarPadhy.jpg
+R,Ex-officio Members,Dr.Siddharth R,Ex-officio Member,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/Dr.SiddharthR.jpg
+H,Ex-officio Members,Dr. Aswath Babu H,Ex-officio Member,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/Dr.AswathBabuH.jpeg
+Raj,Members,Dr. Vivek Raj,Member,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/vivek_raj.jpg
+Yelmewad,Members,Dr. Pramod Yelmewad,Member,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/pramod_yelmewad.jpg
+Chaturvedi,Members,Dr. Animesh Chaturvedi,Member,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/animesh_chaturvedi.jpg
+Guha,Members,Dr. Dibyajyoti Guha,Member,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/Dr.DibyajyotiGuha.jpg
+K,Members,Dr. Sunil C K,Member,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/Dr.SunilCK.jpg
+R,Members,Dr. Siddharth R,Member,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/Dr.SiddharthR.jpg
+Kini,Members,Dr. Anushree Kini,Member,AttributeError,AttributeError,"IIIT Dharwad, Karnataka, India",AttributeError,https://iiitdwd.ac.in/images/anushree_kini.jpg
